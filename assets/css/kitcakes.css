@@ -1,0 +1,19 @@
+body{
+    background-color: #FFE4C4;
+    color: #000;
+}
+
+@font-face {
+  font-family: "manu";
+  src: url("../../plugins/fonte/Jaime.ttf");
+   }
+   
+h1{
+  font-family: "manu";
+  font-size: 80px
+}
+
+.cor{
+    background-color: #8B4513;
+    color: white
+}
