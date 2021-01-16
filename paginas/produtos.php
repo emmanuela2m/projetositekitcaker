@@ -1,3 +1,4 @@
+<link  rel="shortcut icon"  href="assets/img/favicon.ico">
 <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css" />
 <link rel="stylesheet" href="plugins/icomoon/icomoon.css" />
 <link rel="stylesheet" href="assets/css/header.css" />
@@ -68,7 +69,7 @@
                         <strong>Obs:</strong>  Para bolos temáticos deixe sua ideia de decoração na 
                         página de contato e descreva seu tema, após o envio entraremos em contato
                         conforme os dados obtidos no cadastro. </p>
-                        <a href="?pg=contatos" class="btn vini">Fazer Pedido</a>
+                        <a href="?pg=cadastro" class="btn vini">Fazer Pedido</a>
                     </div>
                 </div>
             </div>
@@ -98,7 +99,7 @@
                         <strong>Obs:</strong>  Para bolos temáticos deixe sua ideia de decoração na 
                         página de contato e descreva seu tema, após o envio entraremos em contato
                         conforme os dados obtidos no cadastro.</p>
-                        <a href="?pg=contatos" class="btn vini">Fazer Pedido</a>
+                        <a href="?pg=cadastro" class="btn vini">Fazer Pedido</a>
                     </div>
                 </div>
             </div>
@@ -130,7 +131,7 @@
                         <strong>Obs:</strong>  Para bolos temáticos deixe sua ideia de decoração na 
                         página de contato e descreva seu tema, após o envio entraremos em contato
                         conforme os dados obtidos no cadastro.</p>
-                        <a href="?pg=contatos" class="btn vini">Fazer Pedido</a>
+                        <a href="?pg=cadastro" class="btn vini">Fazer Pedido</a>
                     </div>
                 </div>
             </div>
@@ -168,7 +169,7 @@
 
                         <strong>Obs:</strong> Este kit não dá direito ao bolo temático,na página de contato só serão creditados as escolhas do sabor da massa; recheio e cobertura.
                         deixe ciente no cadastro os tipos de salgados e doces que serão escolhidos para o kit!</p>
-                        <a href="?pg=contatos" class="btn vini">Fazer Pedido</a>
+                        <a href="?pg=cadastro" class="btn vini">Fazer Pedido</a>
                     </div>
                 </div>
             </div>
@@ -206,7 +207,7 @@
 
                         <strong>Obs:</strong> Este kit não dá direito ao bolo temático,na página de contato só serão creditados as escolhas do sabor da massa; recheio e cobertura.
                         deixe ciente no cadastro os tipos de salgados e doces que serão escolhidos para o kit!</p>
-                        <a href="?pg=contatos" class="btn vini">Fazer Pedido</a>
+                        <a href="?pg=cadastro" class="btn vini">Fazer Pedido</a>
                     </div>
                 </div>
             </div>
@@ -244,7 +245,7 @@
 
                         <strong>Obs:</strong> Este kit não dá direito ao bolo temático,na página de contato só serão creditados as escolhas do sabor da massa; recheio e cobertura.
                         deixe ciente no cadastro os tipos de salgados e doces que serão escolhidos para o kit!</p>
-                        <a href="?pg=contatos" class="btn vini">Fazer Pedido</a>
+                        <a href="?pg=cadastro" class="btn vini">Fazer Pedido</a>
                     </div>
                 </div>
             </div>

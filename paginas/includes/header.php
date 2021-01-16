@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="pt-br">
     <head>
+        <link  rel="shortcut icon"  href="assets/img/favicon.ico">
         <meta charset="UTF-8">
         <title>Kit Cakes</title>
         <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css" />
@@ -10,10 +11,7 @@
 
     </head>
 
-
-
-
-
+    
     <body>
 
         <div class="manu">

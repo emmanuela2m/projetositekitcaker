@@ -1,3 +1,4 @@
+<link  rel="shortcut icon"  href="assets/img/favicon.ico">
 <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css" />
 <link rel="stylesheet" href="plugins/icomoon/icomoon.css" />
 <link rel="stylesheet" href="assets/css/header.css" />
@@ -42,7 +43,7 @@
                         </form>
                     </div>
             </div>
-            
+
             <div class="container">
 
                 <div class="container mt-3">
@@ -53,30 +54,28 @@
 
                                 <div class="form-group">
                                     <span class="reg-user"></span>  
-                                    <label for="exampleFormControlInput1">Nome completo</label>                           
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+                                    <label for="exampleFormControlInput1">Nome</label>                           
+                                    <input  class="form-control" placeholder="Nome completo">
                                 </div>
                                 <div class="form-group">
                                     <span class="reg-whatsapp"></span>  
                                     <label for="exampleFormControlInput1">Celular</label>
-
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+                                    <input  class="form-control" placeholder="(xx)xxxxx-xxxx">
                                 </div>
                                 <div class="form-group">
                                     <span class="reg-mail"></span>
                                     <label for="exampleFormControlInput1">E-mail</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+                                    <input  class="form-control" placeholder="usuario@email.com">
                                 </div>
                                 <div class="form-group">
                                     <span class="reg-news-paper"></span>
-                                    <label for="exampleFormControlInput1">CPF</label>
-                                    <span class="manu-document"></span>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+                                    <label for="exampleFormControlInput1">CPF</label>                                   
+                                    <input  class="form-control" placeholder="CPF">
                                 </div> 
                                 <div class="form-group">
                                     <span class="reg-barcode"></span>
                                     <label for="exampleFormControlInput1">Código do produto</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+                                    <input  class="form-control" placeholder="Ex:1234567">
                                 </div>
                             </div>
                             <div class="col-6">
@@ -87,7 +86,8 @@
                                         <option>Chocolate</option>
                                         <option>baunilha</option> 
                                     </select>
-                                </div>       
+                                </div>   
+
                                 <div class="form-group">
                                     <span class="reg-cakephp"></span>
                                     <label for="exampleFormControlSelect1">Sabor do recheio</label>
@@ -97,23 +97,23 @@
                                         <option>Maracujá</option> 
                                     </select>
                                 </div>
+
                                 <div class="form-group">
                                     <span class="reg-cakephp"></span>
-                                    <label for="exampleFormControlSelect1">Nossas opções de kit</label>
-                                    <select class="form-control" id="exampleFormControlSelect1">
+                                    <label for="exampleFormControlSelect1">Nossas opções de kit</label>                                   
+                                    <select class="form-control">
                                         <option>kit 1</option>
-                                        <option>Kit 2</option> 
-                                        <option>Kit 3</option> 
+                                        <option>Kit 2</option>
+                                        <option>Kit 3</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
                                     <span class="reg-cakephp"></span>
                                     <label for="exampleFormControlSelect1">Peso da torta</label>
-                                    <select class="form-control" id="exampleFormControlSelect1">
+                                    <select class="form-control" id="exampleFormControlSelect1">  
                                         <option>1 kg</option>
                                         <option>2 kg</option>
                                         <option>3 kg</option>
-
                                     </select>
                                 </div> 
                                 <div class="form-group">
@@ -131,7 +131,7 @@
                         <div class="form-group w-100 ">
                             <span class="reg-chat-alt-stroke"></span>
                             <label for="exampleFormControlTextarea1">Observação</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            <textarea class="form-control" placeholder="Deixe aqui sua observação sobre o pedido." id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
                         <a href="?pg=obrigado" class="btn btn-lg active btn-block cor" role="button" aria-pressed="true">Enviar Pedido</a>
                     </div>
