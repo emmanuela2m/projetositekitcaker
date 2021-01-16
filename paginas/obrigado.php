@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="assets/css/header.css" />
 
     </head>
-    <body>
+    <body style="background-color: #FFE4C4;">
         <div class="error-rescue-modal servidor">
 
             <div class="error-rescue-modal-mensagem mr-auto"style="background-color: #8B4513;">
