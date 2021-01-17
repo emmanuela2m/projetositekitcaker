@@ -319,8 +319,8 @@
 
             <!-- Copyright -->
             <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-                © 2020 KitCakes:
-                <a class="text-white" href="https://mdbootstrap.com/">Kitcackes.com</a>
+                KitCakes © 2020 :
+                <a class="text-white" href="https://mdbootstrap.com/">Todos os direitos reservados por QC.</a>
             </div>
             <!-- Copyright -->
 
