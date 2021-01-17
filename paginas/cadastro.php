@@ -83,6 +83,7 @@
                                     <span class="reg-cakephp"></span>
                                     <label for="exampleFormControlSelect1">Sabor da massa</label>
                                     <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>Selecione</option>
                                         <option>Chocolate</option>
                                         <option>baunilha</option> 
                                     </select>
@@ -92,6 +93,7 @@
                                     <span class="reg-cakephp"></span>
                                     <label for="exampleFormControlSelect1">Sabor do recheio</label>
                                     <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>Selecione</option>
                                         <option>Chocolate</option>
                                         <option>Leite ninho</option> 
                                         <option>Maracujá</option> 
@@ -100,26 +102,29 @@
 
                                 <div class="form-group">
                                     <span class="reg-cakephp"></span>
-                                    <label for="exampleFormControlSelect1">Nossas opções de kit</label>                                   
-                                    <select class="form-control">
-                                        <option>kit 1</option>
-                                        <option>Kit 2</option>
-                                        <option>Kit 3</option>
-                                    </select>
-                                </div>
-                                <div class="form-group">
-                                    <span class="reg-cakephp"></span>
                                     <label for="exampleFormControlSelect1">Peso da torta</label>
                                     <select class="form-control" id="exampleFormControlSelect1">  
+                                        <option>Selecione</option>
                                         <option>1 kg</option>
                                         <option>2 kg</option>
                                         <option>3 kg</option>
                                     </select>
                                 </div> 
                                 <div class="form-group">
+                                    <span class="reg-cakephp"></span>
+                                    <label for="exampleFormControlSelect1">Nossas opções de kit</label>                                   
+                                    <select class="form-control">
+                                        <option>Selecione</option>
+                                        <option>kit festa 1</option>
+                                        <option>Kit festa 2</option>
+                                        <option>Kit festa 3</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
                                     <span class="reg-credit-card1"></span>
                                     <label for="exampleFormControlSelect1">Forma de pagamento</label>
                                     <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>Selecione</option>
                                         <option>Crédito</option>
                                         <option>Débito</option>
                                         <option>Boleto</option>
